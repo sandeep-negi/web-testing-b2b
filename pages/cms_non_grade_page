@@ -1,0 +1,28 @@
+curriculum_header_button=xpath=>(//span[normalize-space()='Curriculum'])[1]
+all_games_drop_down_option=xpath=>//a[@href='/games']
+all_games_screen_heading=xpath=>(//h2[normalize-space()='Math Games for Preschoolers'])[1]
+all_games_bread_crumb1=xpath=>(//a[normalize-space()='Home'])[1]
+all_games_bread_crumb2=xpath=>(//span[normalize-space()='Games'])[1]
+all_games_top_banner_heading=xpath=>(//h1[normalize-space()='Educational Learning Games For Kids'])[1]
+
+math_games_top_banner_heading=xpath=>(//h1[normalize-space()='Math Games for Kids'])[1]
+math_games_drop_down_option=xpath=>//a[@href='/math-games']
+math_games_screen_heading=xpath=>(//h2[normalize-space()='Math Games for Preschoolers'])[1]
+math_games_bread_crumb1=xpath=>(//a[normalize-space()='Home'])[1]
+math_games_bread_crumb2=xpath=>(//a[@class='font-breadcrumb js-track-ga'][normalize-space()='Games'])[1]
+math_games_bread_crumb3=xpath=>(//span[normalize-space()='Math Games'])[1]
+
+ela_games_drop_down_option=xpath=>//a[@href='/ela-games']
+ela_games_screen_heading=xpath=>(//h2[normalize-space()='ELA Games for Preschoolers'])[1]
+ela_games_bread_crumb1=xpath=>(//a[normalize-space()='Home'])[1]
+ela_games_bread_crumb2=xpath=>(//a[@class='font-breadcrumb js-track-ga'][normalize-space()='Games'])[1]
+ela_games_bread_crumb3=xpath=>(//span[normalize-space()='ELA Games'])[1]
+
+math_worksheet_drop_down_option=xpath=>//a[@href='/math-worksheets']
+math_worksheet_screen_heading=xpath=>(//h2[normalize-space()='Math Worksheets for Kindergarteners'])[1]
+math_worksheet_bread_crumb1=xpath=>(//a[normalize-space()='Home'])[1]
+math_worksheet_bread_crumb2=xpath=>(//span[normalize-space()='Math Worksheets'])[1]
+
+online_tutoring_header=xpath=>//a[@href='/tutoring/courses']
+online_tutoring_screen_games_option=xpath=>(//a[@class='content-type-text '][normalize-space()='Games'])[1]
+online_tutoring_screen_worksheet_option=xpath=>(//a[contains(@class,'content-type-text')][normalize-space()='Worksheets'])[1]

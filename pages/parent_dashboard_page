@@ -1,0 +1,29 @@
+spotlight=class=>react-joyride__spotlight
+okay=xpath=>//span[text()='Okay']
+back=css=>.iconcust-iconBackBtn
+set_later_in_settings=linkText=>Set later in Settings
+menu=xpath=>//img[@class='settings-icon menu-item'] | //i[@class='iconcust-iconMenu menu-item']
+parents=css=>a.goto-parent-dashboard
+todays_learning_path=css=>div.learning-path
+cancel_popup=class=>cross-btn
+otp=name=>otp1
+parent_password=id=>password-field
+email_submit_btn=class=>email-submit-button
+continue_with_limited_access=class=>continue-limited-access-class
+parents_menu=xpath=>//*[text()='Parents' or @class='style__HamburgerButton-sc-1wj5gcf-0 CoNlt']
+settings=xpath=>//*[text()='Settings']
+parent_dob_password=xpath=>//input[contains(@class,'year-input')][1]
+my_learning_path=xpath=>//*[contains(@class,'LearningPath')]
+from_my_teacher=xpath=>//*[text()='FROM MY TEACHER']/parent::*
+gamification_bar=xpath=>//*[contains(@class, 'GamificationBar')]
+home_tab=xpath=>//div[text()='Home']
+Curriculum_tab=xpath=>(//div[ text()='Curriculum'])[1]
+Gamezone_tab=xpath=>(//div[ text()='Game Zone'])[1]
+Starter_plan=xpath=>//span[ text()='STARTER']
+start_playing=xpath=>//div[ text()='Start Playing']
+free_activities=xpath=>//div[@class='RemainText-sc-r8if41 jfyVvW']
+Curriculum_text=xpath=>(//div[ text()='Curriculum'])[2]
+Gamezone_text=xpath=>(//div[ text()='Game Zone'])[2]
+upgrade_button=text=>Upgrade
+hamburger_menu=xpath=>(//p[@class='style__Lines-sc-1wj5gcf-1 ihZFiY'])[1]
+premium_plan=xpath=>//span[text()='PREMIUM']

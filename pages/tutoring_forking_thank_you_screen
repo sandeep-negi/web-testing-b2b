@@ -1,0 +1,5 @@
+thank_you_screen_image=xpath=>(//img[@alt='thanku icon'])[1]
+logout_button=xpath=>(//a[normalize-space()='Logout'])[1]
+explore_splashlearn_button=xpath=>(//a[normalize-space()='Explore SplashLearn'])[1]
+something_wrong_header=xpath=>(//h3[normalize-space()="Something's wrong"])[1]
+something_wrong_try_again_button=xpath=>(//a[normalize-space()='Try Again'])[1]

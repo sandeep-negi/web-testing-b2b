@@ -1,0 +1,15 @@
+parent=xpath=>(//p[normalize-space()='Teacher/Parent'])[1]
+Parent_email=id=>user_login
+parent_password=id=>user_password
+login=id=>login-button
+signup_for_free=xpath=>//a[text()='Parents, Sign Up for Free']
+google_login=xpath=>//strong[text()='Google']
+google_pwd=xpath=>//input[@type='password']
+google_next=xpath=>//span[text()='Next']
+google_try_again=xpath=>//span[text()='Try again']
+facebook_login=xpath=>//strong[text()='Facebook']
+facebook_email=id=>email
+facebook_password=id=>pass
+facbook_login_button=id=>loginbutton
+parent_try_for_free=xpath=>//a[text()='Parents, try for free']
+

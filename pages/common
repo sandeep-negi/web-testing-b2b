@@ -1,0 +1,8 @@
+complete_assignment_yes=xpath=>//*[text()='Yes']
+complete_assignment_no=xpath=>//*[text()='No']
+iframe_close_button=id=>iframe-close-button
+close_popup=xpath=>//*[@class='modal new-assessment-modal']//button[contains(@class,'cross-icon')]
+close_preview_modal=xpath=>//*[@class='preview-invite-popup modal']//button[contains(@class,'cross-icon')]
+close_math_fact_popup=xpath=>//button[contains(@class,'cross-icon')]
+springboard_popup=xpath=>//*[contains(@class,'springBoardPopupCross')]
+successful_pop_up_modal=xpath=>//div[@class='modal success-practice-modal']

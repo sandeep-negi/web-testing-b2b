@@ -1,0 +1,6 @@
+math_facts_lp=class=>locked-overlay
+next_button=xpath=>//div[@id='suggestion-list']//span[2]
+activity_locked=xpath=>//h3[text()='Activity is locked!']
+ok=xpath=>//div[@class='locked-content-modal']//a
+math_facts_setting=xpath=>//p[text()='Make Math Facts a part of daily learning']
+back_button=class=>back-btn

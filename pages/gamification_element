@@ -1,0 +1,12 @@
+cards_button=id=>cardRef
+subject_toggle_button=xpath=>//div[contains(@class,"GradeSwitch")]
+subject_selection_dropDown=xpath=>//li[contains(@class,"style__SelectGradeBtnLi")]
+reading_cards=xpath=>//span[contains(text(),'Reading')]
+math_cards=xpath=>//span[contains(text(),'Math')]
+gamification_bar=xpath=>//div[contains(@class,'style__GamificationBar')]
+switch_profile_button=xpath=>//div[contains(@class,'style__SwitchProfileButton')]
+unlock_button=xpath=>//p[text()='Unlock all Content']
+no_of_cards=xpath=>//*[@class='right-bar']/div[1]//*[@class='title-bar']//*[contains(text()[2],'/')]
+child_profile_button=id=>bq-child-button
+bq_widget=xpath=>//div[text()='QUEST OF HABIT']
+splash_arena=xpath=>//p[text()='Splash Arena']

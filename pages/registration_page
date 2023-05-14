@@ -1,0 +1,11 @@
+parent_email=type=>email
+Password=type=>password
+parents_DOB=id=>user_dob_year
+create_account=type=>submit
+class_code_type=xpath=>//input[@maxlength='6']
+class_code_continue=class=>class-code-verify-btn
+validation_invalid_email_text=xpath=>//input[@id='parent-email-signup']/following-sibling::span[text()='Please enter a valid email.']
+validation_duplicate_email_text=xpath=>//input[@id='parent-email-signup']/following-sibling::span[text()='User with this email already exists. Click ']
+pwd_validation=xpath=>//input[@type='password']/following-sibling::span[text()='Too short, password must be at least 6 characters']  | //div[text()='Password must be at least 6 characters']
+invalid_email_pwd=xpath=>//div[text()='Invalid email or password.']
+

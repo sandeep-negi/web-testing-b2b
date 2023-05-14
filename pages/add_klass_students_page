@@ -1,0 +1,10 @@
+klass_name=id=>klass_name
+klass_grade=name=>klass[grade_id]
+klass_subject=id=>klass_subject_preference
+create_new_klass=css=>input.primary-cta-button.fw.submit-but
+add_students=id=>students-added
+student_names=name=>student_names
+done_adding_student=linkText=>Done Adding Students
+add_students_VariantPage=xpath=>//button[text()='Add Students']
+student_names_VariantPage=xpath=>//textarea[@placeholder='Copy paste all names here in one go']
+done_adding_student_VariantPage=xpath=>//button[text()='Continue']

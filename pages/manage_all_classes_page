@@ -1,0 +1,5 @@
+add_new_class=xpath=>//a[text()='Add New Class']
+class_list=xpath=>//ul[@id='current_school_year_header']//li[@class='js-current-klass']
+confirm_delete=xpath=>//span[text()='OK']
+enter_text_delete=css=>input.delete-class-input
+permanent_delete_class=xpath=>//span[text()='Permanently delete this class']

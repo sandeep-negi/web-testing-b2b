@@ -1,0 +1,10 @@
+password_type_text=xpath=>//label[text()='Text']/preceding-sibling::div
+password_type_picture=xpath=>//label[text()='Picture']/preceding-sibling::div
+save_changes=xpath=>//span[text()='Save Changes']
+delete_class=xpath=>//*[text()='Delete Class']
+delete_ok_button=xpath=>//*[text()='OK']
+grade_dropdown=css=>div.grade-dropdown-left-nav.grade-dropdown-left-nav-extra-width
+grade_dropdown_other_options=xpath=>//*[contains(@class,'other-grades')]//li/*
+classroom_name=css=>input.class-settings-options-classroom-name
+enter_text_delete=css=>input.delete-class-input
+permanent_delete_class=xpath=>//span[text()='Permanently delete this class']

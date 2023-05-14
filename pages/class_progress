@@ -1,0 +1,18 @@
+report_view_dropdown=xpath=>//*[@class='report-view-dropdown']//a
+report_view_grid=xpath=>//*[@class='report-view-dropdown']//li[text()='In Grid']
+report_view_group=xpath=>//*[@class='report-view-dropdown']//li[text()='In Group']
+first_content_group_selected=xpath=>(//*[@class='content-grp-wrap']//li)[1]/input
+first_content_group=xpath=>(//*[@class='content-grp-wrap']//li)[1]/label
+students_list=xpath=>//ul[@class='students-list clearfix']/li
+assignment_section=xpath=>//*[normalize-space(@class)='assignment-section']
+assignment_section_selected_student=xpath=>//*[normalize-space(@class)='assignment-section']/li[text()='Assign to ']
+assignment_section_group_of_students=xpath=>//*[normalize-space(@class)='assignment-section']/li[text()='Assign to Group of Students']
+select_all_checkbox_grid=xpath=>//*[text()='Select all']
+assign_button_grid=xpath=>//*[contains(@class,'assign-btn')]
+assign_button_group=xpath=>//*[contains(@class,'primary-cta-button') and text()='Assign']
+modify_button_group=xpath=>//*[@class='primary-cta-button' and text()='Modify']
+whole_class_radio_grp=xpath=>//*[@class='radio-btn']/*[normalize-space(@class)='whole-class']
+selected_students_radio_grp=xpath=>//*[@class='radio-btn']/*[normalize-space(@class)='selected-std-class selected']
+grid_view_component=css=>.grid-view-report
+group_view_right_container_invisiblity=xpath=>//*[@class='right-container display-none']
+group_view_left_container=xpath=>//*[@class='right-container']

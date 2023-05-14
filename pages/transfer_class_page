@@ -1,0 +1,4 @@
+teacher_email=css=>input.js-class-transfer-emails
+message_section=css=>textarea.js-class-transfer-message
+submit_transfer_request=css=>span.submit-button.active
+cancel_transfer=xpath=>//span[text()='Cancel Transfer']

@@ -1,0 +1,6 @@
+verify_email_header=xpath=>(//h2[normalize-space()='Verify email'])[1]
+resend_code_button=xpath=>(//a[normalize-space()='Resend Code'])[1]
+otp_field_1=xpath=>(//input[@name='otp1'])[1]
+otp_field_2=xpath=>(//input[@name='otp2'])[1]
+otp_field_3=xpath=>(//input[@name='otp3'])[1]
+otp_field_4=xpath=>(//input[@name='otp4'])[1]

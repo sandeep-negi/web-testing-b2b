@@ -1,0 +1,9 @@
+header_text_on_student_centre=xpath=>//h2[text()='Select Your Classroom' or text()='Select Your Profile']
+go_to_teacher_dashboard=linkText=>Go to Teacher Dashboard
+teacher_password=xpath=>//input[@type='password' and @placeholder='Password Required']
+submit=css=>button.primary-cta-button
+studentsList=xpath=>//div[@class='student-item']
+student_text_password=id=>textpwd
+student_pic_password=class=>picture-pass-list-wrap js-pictures
+signin_button=xpath=>//*[text()='Sign in']
+student_profile=xpath=>//div[@id='class-student-center']//h2

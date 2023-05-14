@@ -1,0 +1,20 @@
+first_name=id=>user_first_name
+last_name=id=>user_last_name
+email=id=>user_email
+password=id=>user_password
+birth_year=id=>user_dob_year
+us_schools_link=xpath=>//a[text()='Find US schools here']
+nonus_schools_link=xpath=>//a[text()='Find non-US schools here']
+country=id=>user_institution_attributes_country_code
+state=id=>user_institution_attributes_state_code
+city=xpath=>//*[@id='school-name-with-suggestions' or @id='cities-name-with-suggestions']
+school=xpath=>//*[contains(@id, 'user_institution_attributes_name')]
+zip_code=xpath=>//*[contains(@id,'user_institution_attributes_zip')]
+signup_button=id=>submit_1
+set_your_school_button=id=>school-information-added
+bubble_wait_icon=xpath=>//*[@id='spinner' and contains(@style,'display')]//*[@class='bubblingG']
+survey_question_select_opt=xpath=>//div[@class="individual-options"][2]
+survey_question_first_question=xpath=>//div[@class='survey-content-body']//child::div[@class='individual-options'][1]
+survey_question_list=xpath=>//div[@class='teacher-signup-survey']//div[@class='individual-header']
+survey_question_cta_enabled_button=xpath=>//div[@class='show-survey-content']//span[text()='Next' or text()='Continue' or text()='Submit & Continue']
+survey_question_cta_disabled_button=css=>span.primary-cta-button.disabled

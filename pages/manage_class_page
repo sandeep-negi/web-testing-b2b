@@ -1,0 +1,3 @@
+add_class=linkText=>Add New Class
+delete_class=xpath=>//a[@data-klass='classfirst' and @data-clicked='Delete Class']
+confirm_delete=linkText=>OK

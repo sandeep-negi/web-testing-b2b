@@ -1,0 +1,6 @@
+learning_path=xpath=>//div[contains(@class,'style__LearningPathMain')]
+first_card=id=>suggested-card-0
+second_card=id=>suggested-card-1
+third_card=id=>suggested-card-2
+iframe_cross_button=id=>iframe-close-button
+parent_subscription_pitch=xpath=>//a[text()='Parents, Subscribe now']

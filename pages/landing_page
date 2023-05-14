@@ -1,0 +1,5 @@
+parents_start_free_trial=xpath=>//a[text( )='Parents, Try for Free']
+old_math_facts=xpath=>//p[text()='Math Facts']
+login_button=xpath=>//a[@href='/signin']
+
+

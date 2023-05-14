@@ -1,0 +1,1 @@
+set_weekly_goal=xpath=>//button[contains(text(),'Set Weekly Goal')]

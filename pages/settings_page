@@ -1,0 +1,13 @@
+current_plan=css=>div.subscription > div.heading
+trial_period=xpath=>//div[text()='Trial Period']/following-sibling::div[1]
+student_accounts=xpath=>//div[text()='Student Accounts']/following-sibling::div[1]
+subscription_amount=xpath=>//div[text( )='Subscription Amount']/following-sibling::div[1]
+subscription_status=xpath=>//div[text( )='Subscription Status']/following-sibling::div[1]
+charging_info=xpath=>//div[text( )='Charging Info']/following-sibling::div[1]
+cancel_my_trial=xpath=>//a[text( )='Cancel my trial']
+i_faced_technical_issue=id=>31
+continue=xpath=>//a[text( )='Continue']
+cancel_anyway=xpath=>//a[text( )='Cancel Anyway']
+ok=xpath=>(//a[text()='OK'])[1]
+unpaid_user_membership_details=xpath=>//div[text()='Sorry! We could not find any subscription for your account.']
+view_plan_button=xpath=>//a[text()='View Plans']

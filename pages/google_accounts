@@ -1,0 +1,3 @@
+email=id=>identifierId
+next=xpath=>//*[text()='Next']/ancestor::button
+password=name=>password

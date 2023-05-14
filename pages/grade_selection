@@ -1,0 +1,7 @@
+grade_preK=xpath=>//a[contains(@class, ' grade-Pre-K ')]
+grade_Kindergarten=xpath=>//a[contains(@class, ' grade-K ')]
+grade_one=xpath=>//a[contains(@class, ' grade-1st ')]
+grade_two=xpath=>//a[contains(@class, ' grade-2nd ')]
+grade_three=xpath=>//a[contains(@class, ' grade-3rd ')]
+grade_four=xpath=>//a[contains(@class, ' grade-4th ')]
+grade_five=xpath=>//a[contains(@class, ' grade-5th ')]

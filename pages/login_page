@@ -1,0 +1,8 @@
+parents_teacher_login=xpath=>//*[text()='Teacher/Parent']/parent::a
+login_button=id=>login-button
+weekly_schedule_popup=xpath=>//a[@class='hollow-btn']
+user_email=id=>user_login
+user_password=id=>user_password
+class_code=id=>classcode
+google_signin_button=xpath=>//a[contains(@class,'google new-social-signin-button')]
+class_code_error=css=>div.help-inline.simple_form_input_error.code-error.js-code-error

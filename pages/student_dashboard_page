@@ -1,0 +1,16 @@
+student_logout=xpath=>//div[contains(@class,'LogoutButton')]
+my_to_dos=css=>div.style__TileOverlay-sc-1ne5fs9-0.ifOliM
+page_loader=id=>js-ajax-spinner
+back=xpath=>//div[@class='splash-verse-todo']//div[contains(@class,'style__BackButtonContainer')]
+parent_email=class=>js-ptl-email
+parent_password=id=>password-field
+parent_signup_button=class=>signup-cta
+my_learning_path=xpath=>//*[contains(@class,'LearningPath')]
+subject_toggle=css=>div.style__GradeSwitch-sc-1nn8yhk-0.hVqKEi
+reading_subject=css=>div.style__GradeSwitch-sc-1nn8yhk-0.hVqKEi > div:nth-of-type(1)
+math_subject=css=>div.style__GradeSwitch-sc-1nn8yhk-0.hVqKEi > div:nth-of-type(2)
+math_fact_practice_days=xpath=>//*[@class='math-facts-container']//*[@class='slick-track']/*
+assigned_practice_card_today=xpath=>//div[@id='progress-wrapper']//child::div[text()='Today']
+new_page_loader=xpath=>(//*[name()='svg']//*[local-name()='clipPath'])[1]
+live_classes_popup=xpath=>//div[@class='CrossButton-sc-1lajpmc gqhIQX']
+

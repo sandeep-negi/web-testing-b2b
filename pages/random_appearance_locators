@@ -1,0 +1,8 @@
+recommendation_popup_close=class=>wootric-x-wrapper
+fallback_components=xpath=>//*[contains(@class,'fallback')]
+recommendation_popup_rating=css=>*[class='wootric-visible'][value='9']
+recommendation_popup_send=id=>wootric-submit
+math_facts_discovery_popup_close=xpath=>//*[@id='math-fact-discovery-modal']//button[contains(@class,'cross-icon')]
+closeSurveyPopUp=id=>wootric-x
+errorOnPage=xpath=>//*[@class='noty_bar noty_theme_default noty_layout_top noty_error']/div[@class='noty_message']/span[text()]
+enableHomeAccessNudge=xpath=>//div[@class='sc-bczRLJ iTYHVx']//i[@class='iconcust-iconCrossBtn']

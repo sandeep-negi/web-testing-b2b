@@ -1,0 +1,4 @@
+highlighted_content_group=xpath=>//div[@class='highlighted-content-group-bar']
+first_card_content_page=xpath=>//div[@class='playable-card last-played start-playable']
+second_card_content_page=xpath=>//div[contains(@class,'playable-wrapper null') and @id="lo-playable-156"]/div[@class='playable-card '][1]
+third_card_content_page=xpath=>//div[contains(@class,'playable-wrapper null') and @id="lo-playable-156"]/div[@class='playable-card '][2]

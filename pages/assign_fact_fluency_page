@@ -1,0 +1,54 @@
+assign_fact_left_nav=xpath=>(//*[text() = 'Assign facts'])
+new_feature_tag=xpath=>(//span[@class='new-feature'])
+new_fact_practice=xpath=>//li//*[text()='New fact practice']
+track_fact_practice=xpath=>(//*[text()='Track fact fluency'])
+assign_button=xpath=>(//button[@class='assign-button'])
+assign_whole_class=xpath=>//*[text()='Assign to the Whole Class']
+assign_selected_students=xpath=>//*[text()='Assign to Selected Students']
+cross_button_assignment_pop_up=xpath=>(//button[@class='iconcust-iconCross cross-icon'])
+cross_button_sucessful_assignment=xpath=>(//button[@class='iconcust-iconCross cross-icon'])
+share_link=xpath=>(//p[@class='share-link-text'])
+view_progress=xpath=>//*[text()='View progress']
+modify_practice=xpath=>//*[text()='Modify practice']
+student_count=xpath=>(//div[@class='assigned-to']/div/text()[1])
+student_practiced_progress_bar=>(//div[@class="progress-bar type-default"]/span/text()[1])
+total_student_progress_bar=>(//div[@class="progress-bar type-default"]/span/text()[3])
+fact_fluency_group_elements=xpath=>//div[@class='fact-detail'][position()=1]//child::div//button
+math_fact_fluency_modal=id=>math-fact-discovery-modal
+close_math_fact_fluency_modal=css=>button.iconcust-iconCross.cross-icon
+successful_assigned_modal-title=xpath=>//h4[@cFlass='modal-title']
+modify_fact_fluency=linkText=>Modify practice
+save_changes=css=>div.primary-cta-button
+assign_facts=id=>math_fact
+assign_adaptive_practice=xpath=>//*[text()='Assign' and contains(@class,'assign-btn')]
+unassign_btn=xpath=>//*[@class='unassign']//*[text()='Unassign']
+students_threedots=class=>dots-container
+select_all_checkbox=xpath=>//*[@class='select-all']/input
+assign_btn=xpath=>//*[@class='modal-actions ']//*[text()='Assign' or text()='Save']
+track_fact_assign_math_fact=css=>span.primary-cta-button.assign-button
+students_names=class=>student-cell
+view_progress=css=>span.primary-cta-button
+create_custom_test=css=>a.secondary-cta-button.assign-btn
+assigned_custom_test_cards=xpath=>//div[@class='test-list']/div[@class='test-card-container ' or @class='test-card-container  is-worksheet-card']
+track_custom_text=xpath=>//li[text()='Track custom test']
+select_students_to_assign=xpath=>//span[text()='Select students to assign']
+total_custom_test=css=>div.test-count-heading
+select_question_drop_down=xpath=>//div[@class='question-info']//div[text()='10' or text()='20']//following-sibling::span[@class='caret_container']
+time_per_question_drop_down=xpath=>//div[@class='question-info']//div[text()='off']//following-sibling::span[@class='caret_container']
+assigned_selected_students=xpath=>//ul[@class='select-std-wrapper']/button
+show_dropdown=xpath=>//a[@data-toggle='dropdown']
+drop_down_data=xpath=>//a[@data-toggle='dropdown']//following-sibling::ul/li
+view_report=css=>div.reports
+student_progress_table=xpath=>//div[@class='track-table-content']
+student_test_accuracy=xpath=>//div[@class='table-cell-accuracy']
+time_spent_by_student=xpath=>//div[@class='table-cell-time']
+test_completed_on=xpath=>//div[@class='table-cell-completed']
+print_worksheet=xpath=>//span[text()='Print worksheet']
+worksheet_card=xpath=>//div[@class='test-card-container  is-worksheet-card']//div[text()='WORKSHEET']
+delete_card_from_progress_page=xpath=>//div[@class='actions-container']/div[2]
+go_to_fact_practice=xpath=>//div[text()='Go to fact practice']
+custom_test_view_progress=xpath=>//div[@class='data-section']//span[text()='View progress']
+review_settings=xpath=>//div[@class='modal worksheet-ques-confirm']
+continue=xpath=>//span[text()='Continue']
+unassign_math_fact=xpath=>//a[text()='Unassign' or text()='unassign']
+

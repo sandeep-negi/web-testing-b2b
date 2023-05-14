@@ -1,0 +1,3 @@
+countinue_button=xpath=>//button[contains(text(),'Continue')]
+play_button=id=>play_roadblock
+skip_button=xpath=>//span[text()='SKIP']

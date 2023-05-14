@@ -1,0 +1,8 @@
+child_name=xpath=>//input[@data-name='name']
+child_avatar=xpath=>(//img[@alt='avatar'])[1]
+grade_for_math=xpath=>//a[@class=' grade-5th '][1]
+learning_path_topic=xpath=>//span[text()='Geometry']
+enable_math_fact=xpath=>//p[contains(text(), 'Make Math Facts a part of daily learning')]/following-sibling::span
+multiple_attempts=xpath=>//p[contains(text(), 'Allow multiple attempts on a wrong answer')]/following-sibling::span
+change_reading_grade=xpath=>//p[contains(text(),'Reading')]/following-sibling::div[1]//a[@class=' grade-2nd ']
+save_button=linkText=>Save Changes

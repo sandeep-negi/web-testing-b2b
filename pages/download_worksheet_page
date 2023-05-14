@@ -1,0 +1,10 @@
+worksheet_count=xpath=>//div[@class='worksheet-card-list-header']/label
+worksheet_card_list=css=>div.worksheet-card-list-wrapper
+saved_worksheet_list=xpath=>//div[@id='teacher-printable-worksheet-card-list']/div[@class='worksheet-card']//div[@class='title']
+saved_worksheet_page=xpath=>//div[@class='navigation']//label[text()='Saved worksheets']
+download_history_page=xpath=>//div[@class='navigation']//label[text()='Download history']
+no_saved_worksheet=xpath=>//div[@class='main-text']
+worksheet_back_button=xpath=>//div[@class='saved-worksheet-header back-container']/div
+success_notification=xpath=>//span[@class='noty_text']
+
+

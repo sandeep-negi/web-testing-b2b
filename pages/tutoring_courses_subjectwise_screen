@@ -1,0 +1,11 @@
+course_math_header=xpath=>(//h2[normalize-space()='Math Courses'])[1]
+course_math_breadcrumb_1=xpath=>(//a[normalize-space()='Home'])[1]
+course_math_breadcrumb_2=xpath=>(//a[contains(@class,'font-breadcrumb js-track-ga')][normalize-space()='Courses'])[1]
+course_math_breadcrumb_3=xpath=>(//span[normalize-space()='Math'])[1]
+course_math_book_your_free_class=xpath=>(//div[contains(@class,'course-card-book')])[1]
+
+course_ela_header=xpath=>(//h2[normalize-space()='ELA Courses'])[1]
+course_ela_breadcrumb_1=xpath=>(//a[normalize-space()='Home'])[1]
+course_ela_breadcrumb_2=xpath=>(//a[contains(@class,'font-breadcrumb js-track-ga')][normalize-space()='Courses'])[1]
+course_ela_breadcrumb_3=xpath=>(//span[normalize-space()='ELA'])[1]
+course_ela_book_your_free_class=xpath=>(//div[contains(@class,'course-card-book')])[1]

@@ -1,0 +1,11 @@
+account_details=linktext=>Account Details
+logout=linktext=>Logout
+edit_player_details=xpath=>//i[@class='iconcust-iconRightArrow']//parent::a[contains(text(),'Edit')]
+player_name=class=>avatar-text
+delete_account=xpath=>//a[text()='Delete Account']
+delete_button=id=>delete-button
+delete_account_request=xpath=>//a[text()='Delete Account Request']
+add_player=xpath=>//div[@class='add-icon-wrap']
+edit_weekly_schedule=xpath=>//a[contains(text(),'Weekly Schedule')]
+
+

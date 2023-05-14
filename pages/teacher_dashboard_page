@@ -1,0 +1,48 @@
+teacher_dashboard=xpath=>//span[@class='single-header']
+enable_home_access=css=>.header-button-container:nth-of-type(1) > span
+go_to_student_experience=css=>.header-button-container:nth-of-type(2) > span
+view_klasses_list=css=>div.class-name-wrap
+add_klass=css=>a.add-class-link
+left_nav_assign_menu=xpath=>//li[text()='MATH']//following-sibling::li[@id='assign'][1]
+left_nav_assign_reading_menu=xpath=>//li[text()='ELA']//following-sibling::li[@id='assign'][1]
+left_nav_new_assignment_option=xpath=>//li[@class='menu-item left-nav-expanded']//span[text()='New assignment']
+left_nav_track_assignment_option=xpath=>//li[@class='menu-item left-nav-expanded']//span[text()='Track assignment']
+left_nav_assess_menu=css=>li#assess.menu-item
+left_nav_new_assessment_option=xpath=>//span[text()='New assessment']
+left_nav_track_assessment_option=xpath=>//span[text()='Track assessment']
+assessment_creation_ok=xpath=>//span[text()='Okay']
+header_track_assessment=css=>//li[text()='Track assessment']
+header_new_assessment=css=>//li[text()='New assessment']
+ongoing_assessment_header=xpath=>//h4[text()='Ongoing Assessments']
+complete_assessment=xpath=>//span[text()='Complete Assessment']
+confirmCompleteAssessmentYes=xpath=>//span[text()='Yes']
+confirmCompleteAssessmentNo=xpath=>//span[text()='No']
+manage_class=xpath=>//span[@class='nav-bar-link']/label[text()='Manage Class']
+class_settings=xpath=>//span[text()='Class settings']
+student_roster=xpath=>//span[text()='Student roster']
+account_dropdown=xpath=>//*[contains(@class,'account-dropdown')]
+profile_link=xpath=>//a[@href='/profile']
+profile=xpath=>//li[@class='dropdown left-nav-dashboard-dropdown']/p/i
+manage_all_class=xpath=>//span[contains(text(),'Manage all Classes')]
+page_loader=id=>js-ajax-spinner
+manage_all_classes_link=xpath=>//li[@class='dropdown left-nav-dashboard-dropdown open']//li[2]
+classcode=xpath=>//*[@class='class-code-container']/strong
+classcode_password_copy=xpath=>//*[@class='copy-class-login-info']//i
+class_pic_password=xpath=>//img[@class='picture-class-password']
+class_text_password=xpath=>//*[@class='class-password-info-icon']/strong
+left_nav_assign_fact_fluency=xpath=>//span[text()='Assign facts']
+download_worksheet=id=>worksheet
+worksheet_topic=xpath=>//div[@class='tree-view']//div[1][@class='tree-item level-1  ']/div[@class='item-info']//span[1]
+dashboard_section=id=>dashboard
+math_worksheet_nav_link=xpath=>//li[@class='nav-link active']
+addition=xpath=>//label[@title='Addition']
+reading=xpath=>//label[@title='Reading']
+ela_worksheet_nav_link=xpath=>//li[@class='nav-link ']
+student_Login_Instruction_Modal=xpath=>//div[@id='instructions-popup']
+close_student_Login_Instruction_Modal=xpath=>//div[@id='instructions-popup']//following-sibling::button[@class='iconcust-iconCross cross-icon']
+springboardModal=css=>div.modal.welcome-springboard-modal
+closeSpringboardEnrolPoUp=xpath=>//div[@class='carousal-item'][4]//button[@class='iconcust-iconCross cross-icon']
+splashlearnCommunityModal=id=>splash-community-discovery-modal
+closeSplashlearnCommunityModal=xpath=>//div[@id='splash-community-discovery-modal']//following-sibling::button
+summerLearningPopUp=xpath=>//div[@class='sb-introduction-popup summer']
+closeSummerLearningPopUp=xpath=>//button[@class='iconcust-iconCross cross-icon']

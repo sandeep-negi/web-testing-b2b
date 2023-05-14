@@ -1,0 +1,5 @@
+no=xpath=>//p[text()='No']
+yes=class=>(//p[text()='Yes'])
+not_sure=xpath=>(//p[text()='Not Sure'])
+lets_pick_a_course=class=>features-style__TutoringCta-ks8qbk-4 ceHwUF tutoring-cta
+continue_without_tutoring=class=>features-style__LinkWithoutCta-ks8qbk-5 fYpbOs

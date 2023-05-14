@@ -1,0 +1,9 @@
+minute_a_week=xpath=>//span[text()='30 min']
+everyday=xpath=>//label[text()='Every Day']
+wednesday=xpath=>//label[text()='W']
+monday=xpath=>//label[text()='M']
+am=xpath=>//li[text()='11:00 AM']
+pm=xpath=>//li[text()='5:00 PM']
+time=class=>selected-time
+email_notification=xpath=>//label[@for='emailNotification']
+save_changes=linkText=>Save Changes

@@ -1,0 +1,38 @@
+text_password=id=>plain_text_password
+save_button=xpath=>//*[text()='Save']
+picture_password=xpath=>//div[@class='picture-password']
+add_students=xpath=>//*[text()='Add Students']
+all_student_names=xpath=>//*[@class='name']
+manage_class=xpath=>//span[@class='nav-bar-link']/label[text()='Manage Class']
+manage_all_class=xpath=>//a[@href='/classes/manage?src=ml']
+student_roster=xpath=>//span[text()='Student roster']
+profile-icon=xpath=>//i[@class='iconcust-iconProfile left-nav-header-icons']
+edit_first_student_icon=xpath=>(//*[@class='actions-menu']//*[contains(@class,'iconPencil')])[1]
+edit-student-details-modal=xpath=>//div[@class='modal klass-student-edit-modal']
+first_name=xpath=>//input[@id='first_name']
+last_name=//input[@id='last_name']
+save_button=xpath=>//div[@class='modal klass-student-edit-modal']//div[5]
+edit_password_icon=xpath=>//*[@class='password-type']/i
+choose_password=xpath=>//*[@class='choose-cta']
+page_loader=id=>js-ajax-spinner
+select_button=xpath=>//div[text()='Select']
+save_password_button=xpath=>//span[text()='Save']
+fname_first_student=xpath=>(//*[@class='name'])[1]
+current_pic_pwd=xpath=>//div[@class='current-pic-pwd']/img
+preview_invite=xpath=>//*[@class='preview-invite']
+copy_invite=class=>copy-invite
+copied_invite=class=>copied-invite
+add_student_modal=xpath=>//div[@class='modal add-student-modal']
+add_cta_modal=xpath=>//div[@class='primary-cta-button add-cta']
+add_students_cta=xpath=>//span[@class='primary-cta-button']
+student_name_textarea=xpath=>//div[@class="field inp-wrap isRequired"]/textarea
+add_student_button=id=>students-added
+done_button=linkText=>Done Adding Students
+student_currrent_pic_password=class=>selected-picture-password
+choose_another_pic_password=class=>choose-another
+first_picture_password=xpath=>(//*[@class='passcode-image'])[1]//img
+select_button_pic_password=xpath=>//*[contains(@class,'save-password')]
+save_student_details=xpath=>//*[text()='Save']
+roster_page_class_code=xpath=>//div[text()='CLASS CODE']/following-sibling::div[@class='val']
+regenerate_class_code=css=>span.regenerate
+confirm_regenerate_class_code=xpath=>//span[text()='Yes']

@@ -1,0 +1,3 @@
+whole_class_button=xpath=>//*[text()='Whole class']
+modify_button=xpath=>//*[@class='primary-cta-button' and text()='Modify']
+yet_to_start_column_checkbox=xpath=>//*[@for='yet-to-start-columnId']/preceding-sibling::input

@@ -1,0 +1,6 @@
+otp=xpath=>//*[@id='otp' or @name='otp1']
+create_your_password=name=>password
+done=css=>div.email-submit-button > div
+account_deletion_otp=id=>otp
+wrong_otp_validation=xpath=>//p[text()='Invalid code, please verify and retry']
+multiple_time_otp_validation=xpath=>//p[text()='Maximum attempts limit reached, please try later with new code'] | //p[text()='Verification code expired, please click on Re-send code to get new code']

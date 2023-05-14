@@ -1,0 +1,38 @@
+courses_gradek_heading=xpath=>(//h2[normalize-space()='Kindergarten Math Courses'])[1]
+courses_gradek_breadcrumb_1=xpath=>(//a[normalize-space()='Home'])[1]
+courses_gradek_breadcrumb_2=xpath=>(//a[@class='font-breadcrumb js-track-ga'][normalize-space()='Courses'])[1]
+courses_gradek_breadcrumb_3=xpath=>(//span[normalize-space()='Kindergarten'])[1]
+courses_gradek_course_card=xpath=>(//h5[normalize-space()='The Ultimate Kindergarten Math Course'])[1]
+
+courses_grade1_heading=xpath=>(//h2[normalize-space()='1st Grade Math Courses'])[1]
+courses_grade1_breadcrumb_1=xpath=>(//a[normalize-space()='Home'])[1]
+courses_grade1_breadcrumb_2=xpath=>(//a[@class='font-breadcrumb js-track-ga'][normalize-space()='Courses'])[1]
+courses_grade1_breadcrumb_3=xpath=>(//span[normalize-space()='Grade 1'])[1]
+courses_grade1_course_card=xpath=>(//h5[normalize-space()='The Ultimate Grade 1 Math Course'])[1]
+
+courses_grade2_heading=xpath=>(//h2[normalize-space()='2nd Grade Math Courses'])[1]
+courses_grade2_breadcrumb_1=xpath=>(//a[normalize-space()='Home'])[1]
+courses_grade2_breadcrumb_2=xpath=>(//a[@class='font-breadcrumb js-track-ga'][normalize-space()='Courses'])[1]
+courses_grade2_breadcrumb_3=xpath=>(//span[normalize-space()='Grade 2'])[1]
+courses_grade2_course_card=xpath=>(//h5[normalize-space()='The Ultimate Grade 2 Math Course'])[1]
+
+
+courses_grade3_heading=xpath=>(//h2[normalize-space()='3rd Grade Courses'])[1]
+courses_grade3_breadcrumb_1=xpath=>(//a[normalize-space()='Home'])[1]
+courses_grade3_breadcrumb_2=xpath=>(//a[@class='font-breadcrumb js-track-ga'][normalize-space()='Courses'])[1]
+courses_grade3_breadcrumb_3=xpath=>(//span[normalize-space()='Grade 3'])[1]
+courses_grade3_course_card=xpath=>(//h5[normalize-space()='The Ultimate Grade 3 Math Course'])[1]
+
+
+courses_grade4_heading=xpath=>(//h2[normalize-space()='4th Grade Courses'])[1]
+courses_grade4_breadcrumb_1=xpath=>(//a[normalize-space()='Home'])[1]
+courses_grade4_breadcrumb_2=xpath=>(//a[@class='font-breadcrumb js-track-ga'][normalize-space()='Courses'])[1]
+courses_grade4_breadcrumb_3=xpath=>(//span[normalize-space()='Grade 4'])[1]
+courses_grade4_course_card=xpath=>(//h5[normalize-space()='The Ultimate Grade 4 Math Course'])[1]
+
+
+courses_grade5_heading=xpath=>(//h2[normalize-space()='5th Grade Courses'])[1]
+courses_grade5_breadcrumb_1=xpath=>(//a[normalize-space()='Home'])[1]
+courses_grade5_breadcrumb_2=xpath=>(//a[@class='font-breadcrumb js-track-ga'][normalize-space()='Courses'])[1]
+courses_grade5_breadcrumb_3=xpath=>(//span[normalize-space()='Grade 5'])[1]
+courses_grade5_course_card=xpath=>(//h5[normalize-space()='The Ultimate Grade 5 Math Course'])[1]

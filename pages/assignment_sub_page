@@ -1,0 +1,20 @@
+whole_class=xpath=>//span[text()='Assigned to whole class']
+delete_icon=css=>i.iconcust-iconBin
+confirm_delete_assignment=xpath=>//span[text()='Yes']
+selected_students=xpath=>//*[text()='Assign to Selected Students']
+assign_button=xpath=>//div[@class='create-assignment-modal modal print-report-popup assessment-modal new-create-assignment-modal']//span[(text()='Assign' or text()='Save')]
+save_button=xpath=>//*[@class='primary-cta-button' and text()='Save']
+notify_parents=xpath=>//input[@id='intimate-parents']
+assignment_success_text=xpath=>//*[text()='Assignment created successfully!']
+lo_success_msg=xpath=>//*[text()='"Count to 5" assigned successfully']
+modify=xpath=>//span[text()='Save']
+close_pop_up=xpath=>//div[@class='modal new-assessment-modal']/button
+select_whole_class=xpath=>//span[text()='Assign to the Whole Class'] | //*[@for='select-all']
+select_all_students=css=>div.select-all-unassigned
+assign_btn=css=>a.primary-cta-button
+selected_students_msg=class=>students-assigned
+empty_state_text=xpath=>//div[@class='empty-assignment-box']//h3
+assignment_drop_down=css=>div.dropdown.common-dropdown
+select_track_custom_test=xpath=>//li[text()='Track custom test']
+no_math_fact_assigned=xpath=>//div[@class='empty-practice-list']//h3[1]
+

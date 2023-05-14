@@ -1,0 +1,4 @@
+start_your_free_trial=xpath=>(//a[text()='Try for free'])[1]
+grade_1=xpath=>//p[text()='1']
+password=xpath=>//input[@type='password']
+continue=xpath=>//a[text()='Continue']

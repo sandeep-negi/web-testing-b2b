@@ -1,0 +1,46 @@
+header=xpath=>//div[text()='Start your 7-days free trial' or @class='trial__Heading-sc-1ov9tza-0 fpuIRz'] | //h1[text()='SplashLearn 7 days free trial']
+header_2=xpath=>//h1[@class='styled-components__Heading1-sc-1e347wf-2 styled-components__FormHeading-sc-1e347wf-6 Plans__Heading-sc-1uu504l-3 gQOxxZ']
+card_number_iframe=title=>Secure card number input frame
+card_number=data-elements-stable-field-name=>cardNumber
+expiry_date_iframe=title=>Secure expiration date input frame
+expiry_date=name=>exp-date
+cvc_iframe=title=>Secure CVC input frame
+cvc=name=>cvc
+email=xpath=>//input[@type='email' or @id='email-element']
+email_landing_page=xpath=>//input[@type='email']
+more_plans=text=>More Plans
+continue=xpath=>*[text()='Continue']| //p[text()='Start My Subscription'] | //p[text()='Pay now'] | //a[@class='PurchaseCta__PurchaseBtn-sc-19us4wb-0 gxTpVx'] | //a[@class='purchase-cta__PurchaseBtn-sc-139wxet-1 kAiePw'] | //a[@class='purchase-cta__PurchaseBtn-sc-139wxet-2 kfbUhO']
+continue1=xpath=>//a[text()='Continue']
+math_plus_reading=linkText=>Math + Reading
+math=linkText=>Math
+reading=linkText=>Reading
+monthly_quarterly=xpath=>//p[text()='Quarterly' or text() ='Monthly']
+one_child=text=>1 Child
+up_to_three_child=text=>Up to 3 children
+up_to_three_child_new=xpath=>//span[text()='Up to 3 children']
+start_your_free_trial=xpath=>//a[@class='PurchaseCta__PurchaseBtn-sc-19us4wb-0 kYCdxi' or @class='purchase-cta__PurchaseBtn-sc-139wxet-1 imrnmX' or @class='PurchaseCta__PurchaseBtn-sc-19us4wb-0 VkHzV' or @class='purchase-cta__PurchaseBtn-sc-139wxet-1 edoSTI' or @class='purchase-cta__PurchaseBtn-sc-139wxet-1 jLWFrZ' or @class='purchase-cta__PurchaseBtn-sc-139wxet-2 fThDKP']
+start_trial=xpath=>//a[@class='purchase-cta__PurchaseBtn-sc-139wxet-1 jLWFrZ' or @class='purchase-cta__PurchaseBtn-sc-139wxet-1 jLWFrZ']
+continue_with_plan=partialtext=>Continue with
+old_product_page_yearly_plan=xpath=>//div[@class='yearly body']
+old_product_page_header=xpath=>//h2[contains(text(), 'Select Plan to Start Your')]
+old_product_page_start_membership=type=>submit
+Dashboard_navigation=xpath=>//a[contains(text(),'I’ll do it later')]
+start_my_subscription=xpath=>//p[text()='Start My Subscription']
+switch_plan=class=>trial-info
+pay_now=text=>Pay now
+new_plan_page=text=>Subscribe To Unlock Unlimited Fun
+Subscribe_To_Unlock_Unlimited_Fun=text=>Subscribe To Unlock Unlimited Fun
+maths=//a[@class='style__Filter-sc-1mhexx9-6 jgSUGn']
+start_my_subscription=xpath=>//a[@class="purchase-cta__PurchaseBtn-sc-139wxet-1 kAiePw"] | //p[text()='Pay now']
+start_my_subscription1=text=>Start My Subscription
+math_plus_reading1=xpath=>//*[text()='Math + Reading']
+
+pay_now_one=class=>button rounded-button-light-orange
+splashlearn_logo=xpath=>//img[@alt='SplashLearn']
+yearly_plan_popup=xpath=>//div[text()='Select Yearly Plan']
+math_plan_popup=xpath=>//div[text()='Continue with Math plan']
+reading_plan_popup=xpath=>//div[text()='Continue with Reading plan']
+monthly_quarterly_plan_popup=xpath=>//div[text()='Continue with Monthly plan' or text()='Continue with Quarterly plan']
+visa_image=xpath=>//span[@class='visa card-brand-logo card-brand-logo-new-page']
+Card_detail=xpath=>//li[contains(@class,'credit-card-container')][1]
+cross_button=xpath=>//i[@class='iconcust-iconCrossBtn purchase-cross']

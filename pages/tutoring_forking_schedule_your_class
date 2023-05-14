@@ -1,0 +1,10 @@
+schedule_class_header=xpath=>(//h3[normalize-space()='Schedule Your Class'])[1]
+select_date_header=xpath=>(//p[normalize-space()='Select date'])[1]
+select_date_first_slot_date=xpath=>(//div[@class='Container-sc-d13pbr ilAeKN'])[1]
+timezone_header=xpath=>(//p[normalize-space()='Timezone:'])[1]
+select_time_first_slot_time=xpath=>(//div[@class='TimeSlot-sc-1tebql1 egIasL'])[1]
+schedule_your_class_next_button=xpath=>(//a[normalize-space()='Next'])[1]
+select_day_wednesday=xpath=>(//div[@class='Container-sc-d13pbr kQKHMV'])[2]
+select_time=xpath=>(//li[@class='ListItem-sc-18ctq1y lcyRAQ'])[4]
+
+

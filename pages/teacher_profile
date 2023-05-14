@@ -1,0 +1,5 @@
+email=xpath=>//input[@type='email']
+change_email=linkText=>Change Email
+change_password=linkText=>Change Password
+update_profile=xpath=>//span[text()='Update']
+time_zone=id=>user_time_zone

@@ -1,0 +1,5 @@
+user_email_header=xpath=>(//h3[normalize-space()='Enter your email to get started'])[1]
+parent_email_field_label=xpath=>(//label[normalize-space()="Parent's Email id"])[1]
+parent_email_error_message=xpath=>(//p[@class='Error-sc-1rcn479 dbvafI'])[1]
+parent_email_submit_button=xpath=>(//a[normalize-space()='Continue'])[1]
+parent_email_text_box=xpath=>(//input[@type='text'])[1]

@@ -1,0 +1,5 @@
+password=id=>password
+new_email=id=>new_email_id
+new_email_submit=xpath=>//input[@value='Submit']
+verification_code=id=>otp
+otp_submit=id=>otp-submit-btn

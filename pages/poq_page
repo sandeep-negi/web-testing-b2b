@@ -1,0 +1,14 @@
+child_nick_name=css=>*[placeholder='Choose a short screen name ']
+next=css=>i.iconcust-iconBackBtn
+first_grade=xpath=>(//div[@id='grade-animation-wrapper']//button)[3]
+second_grade=xpath=>(//div[@id='grade-animation-wrapper']//button)[4]
+third_grade=xpath=>(//div[@id='grade-animation-wrapper']//button)[5]
+math=xpath=>//h1[contains(text(), 'to start with?')]/following-sibling::div[1]/div[1]
+reading=xpath=>//h1[contains(text(), 'to start with?')]/following-sibling::div[1]/div[2]
+skip_personalization=text=>Skip personalization
+looks_good_see_learning_path=linktext=>Looks Good. Let’s Get Started
+start_playing=partialLinkText=>Start playing
+personalize_reading=partialLinkText=>Personalize
+subject_screen_header=partialText=>What would you like
+yes=xpath=>//div[contains(@class,'slick-current')]//li[text()='Yes']
+other=xpath=>//li[text()='Other']
